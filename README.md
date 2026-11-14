@@ -1,8 +1,8 @@
 # L’Houcine El Assri
 
-### Élève ingénieur INSEA · Cloud & DevOps · Développement logiciel
+### Élève ingénieur INSEA · Cloud & DevOps
 
-En dernière année de Data & Software Engineering, je m’intéresse à la livraison d’applications fiables : automatisation des tests, conteneurisation, intégration continue et infrastructure déclarative. Je recherche un **stage PFE de six mois en Cloud/DevOps ou développement logiciel**, dans la région **Rabat–Casablanca et environs** ; je suis aussi ouvert à d’autres villes et au télétravail.
+En dernière année de Data & Software Engineering, je me spécialise en Cloud & DevOps : automatisation des tests et des déploiements, conteneurisation, infrastructure déclarative et observabilité. Je recherche un **stage PFE de six mois en Cloud/DevOps**, dans la région **Rabat–Casablanca et environs** ; je suis aussi ouvert à d’autres villes et au télétravail.
 
 ## Projet principal — PFA chez OCP
 
@@ -14,7 +14,7 @@ En dernière année de Data & Software Engineering, je m’intéresse à la livr
 - Déploiement avec contrôles de santé et restauration de l’image précédente.
 - Tasks API comme application de référence ; Skill Exchange comme second cas d’intégration de la CI Java.
 
-**Technologies :** Java, Spring Boot, Maven, GitHub Actions, Docker, PostgreSQL, Nginx, Trivy, Terraform, AWS.
+**Technologies DevOps :** GitHub Actions, Docker, Nginx, Trivy, Terraform, AWS.
 
 Le code du PFA est actuellement privé. La CI de référence dispose d’une exécution réussie ; les tests locaux ne constituent pas à eux seuls une preuve de disponibilité du déploiement cloud.
 
@@ -22,7 +22,7 @@ Le code du PFA est actuellement privé. La CI de référence dispose d’une ex�
 
 Plateforme académique d’échange de compétences entre étudiants, réalisée avec EL KIHEL Mehdi et CHARAF Said.
 
-Contribution au backend Spring Boot, aux API REST et à l’authentification JWT, puis à la sécurisation des accès, aux tests et à la conteneurisation. La pile React/Spring Boot/MySQL consomme le workflow Java réutilisable du PFA.
+Contribution DevOps : sécurisation des accès, tests automatisés, conteneurisation et intégration de la CI réutilisable du PFA.
 
 La CI et le scénario de rollback de démonstration disposent d’un run réussi. Le dernier déploiement local automatique reste en échec. Le dépôt source est actuellement privé.
 
@@ -38,11 +38,10 @@ La CI et le scénario de rollback de démonstration disposent d’un run réussi
 
 | Domaine | Pratique dans les projets |
 | --- | --- |
-| Backend | Java, Spring Boot, API REST, Maven |
-| Livraison | Git, GitHub Actions, Docker, Docker Compose |
-| Sécurité de la chaîne | Trivy, secrets hors Git, contrôles d’accès |
-| Infrastructure | Linux, Bash, Terraform, configuration AWS |
-| Données | SQL, PostgreSQL, MySQL, Python, scikit-learn |
+| CI/CD | Git, GitHub Actions, tests, publication d’images et restauration |
+| Conteneurs | Docker, Docker Compose, Nginx |
+| Sécurité | Trivy, gestion des secrets, OIDC et contrôle des permissions |
+| Infrastructure | Linux, Bash, Terraform, AWS |
 
 **En cours d’apprentissage :** Kubernetes et approfondissement de l’observabilité.
 
