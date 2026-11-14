@@ -11,7 +11,7 @@ En dernière année de Data & Software Engineering, je me spécialise en Cloud &
 - Workflow GitHub Actions paramétrable : compilation, tests, détection de secrets et scan des images avec Trivy.
 - Construction d’une image Docker validée, transmise aux étapes suivantes sans reconstruction.
 - Configuration Terraform et mécanismes de publication et de déploiement AWS avec OIDC, ECR et Systems Manager.
-- Déploiement avec contrôles de santé et restauration de l’image précédente.
+- Préparation du déploiement avec contrôles de santé et procédure de restauration de l’image précédente.
 - Tasks API comme application de référence ; Skill Exchange comme second cas d’intégration de la CI Java.
 
 **Technologies DevOps :** GitHub Actions, Docker, Nginx, Trivy, Terraform, AWS.
