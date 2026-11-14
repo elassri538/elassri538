@@ -4,7 +4,7 @@
 
 En dernière année de Data & Software Engineering, je me spécialise en Cloud & DevOps : automatisation des tests et des déploiements, conteneurisation, infrastructure déclarative et observabilité. Je recherche un **stage PFE de six mois en Cloud/DevOps**, dans la région **Rabat–Casablanca et environs** ; je suis aussi ouvert à d’autres villes et au télétravail.
 
-## Projet principal — PFA chez OCP
+## Projet principal — [PFA chez OCP](projects/pfa-pipeline.md)
 
 **Conception d’un pipeline CI/CD sécurisé et réutilisable pour les applications Java/Maven.**
 
@@ -16,15 +16,15 @@ En dernière année de Data & Software Engineering, je me spécialise en Cloud &
 
 **Technologies DevOps :** GitHub Actions, Docker, Nginx, Trivy, Terraform, AWS.
 
-Le code du PFA est actuellement privé. La CI de référence dispose d’une exécution réussie ; les tests locaux ne constituent pas à eux seuls une preuve de disponibilité du déploiement cloud.
+[Voir la fiche du projet, ma contribution et l’état vérifié](projects/pfa-pipeline.md). Le dépôt source est privé.
 
-## Skill Exchange — contribution backend et DevOps
+## [Skill Exchange](projects/skill-exchange-devops.md) — contribution DevOps
 
 Plateforme académique d’échange de compétences entre étudiants, réalisée avec EL KIHEL Mehdi et CHARAF Said.
 
 Contribution DevOps : sécurisation des accès, tests automatisés, conteneurisation et intégration de la CI réutilisable du PFA.
 
-La CI et le scénario de rollback de démonstration disposent d’un run réussi. Le dernier déploiement local automatique reste en échec. Le dépôt source est actuellement privé.
+[Voir la fiche du projet et les résultats vérifiés](projects/skill-exchange-devops.md). Le dépôt source est privé ; le dernier déploiement local automatique reste en échec.
 
 ## Projets publics à explorer
 
