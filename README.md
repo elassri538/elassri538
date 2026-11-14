@@ -1,16 +1,50 @@
-## Hi there 👋
+# L’Houcine El Assri
 
-<!--
-**elassri538/elassri538** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Élève ingénieur INSEA · Cloud & DevOps · Développement logiciel
 
-Here are some ideas to get you started:
+En dernière année de Data & Software Engineering, je m’intéresse à la livraison d’applications fiables : automatisation des tests, conteneurisation, intégration continue et infrastructure déclarative. Je recherche un **stage PFE de six mois en Cloud/DevOps ou développement logiciel**, dans la région **Rabat–Casablanca et environs** ; je suis aussi ouvert à d’autres villes et au télétravail.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projet principal — PFA chez OCP
+
+**Conception d’un pipeline CI/CD sécurisé et réutilisable pour les applications Java/Maven.**
+
+- Workflow GitHub Actions paramétrable : compilation, tests, détection de secrets et scan des images avec Trivy.
+- Construction d’une image Docker validée, transmise aux étapes suivantes sans reconstruction.
+- Configuration Terraform et mécanismes de publication et de déploiement AWS avec OIDC, ECR et Systems Manager.
+- Déploiement avec contrôles de santé et restauration de l’image précédente.
+- Tasks API comme application de référence ; Skill Exchange comme second cas d’intégration de la CI Java.
+
+**Technologies :** Java, Spring Boot, Maven, GitHub Actions, Docker, PostgreSQL, Nginx, Trivy, Terraform, AWS.
+
+Le code du PFA est actuellement privé. La CI de référence dispose d’une exécution réussie ; les tests locaux ne constituent pas à eux seuls une preuve de disponibilité du déploiement cloud.
+
+## Skill Exchange — contribution backend et DevOps
+
+Plateforme académique d’échange de compétences entre étudiants, réalisée avec EL KIHEL Mehdi et CHARAF Said.
+
+Contribution au backend Spring Boot, aux API REST et à l’authentification JWT, puis à la sécurisation des accès, aux tests et à la conteneurisation. La pile React/Spring Boot/MySQL consomme le workflow Java réutilisable du PFA.
+
+La CI et le scénario de rollback de démonstration disposent d’un run réussi. Le dernier déploiement local automatique reste en échec. Le dépôt source est actuellement privé.
+
+## Projets publics à explorer
+
+| Projet | Ce qu’il montre | Pour commencer |
+| --- | --- | --- |
+| **[Cabinet médical](https://github.com/elassri538/cabinet-medical-docker)** | Contribution DevOps à une application en équipe : Docker multistage, Compose, MySQL persistant, configuration et tests locaux | [Guide et vérifications](https://github.com/elassri538/cabinet-medical-docker#readme) |
+| **[Efficacité énergétique](https://github.com/elassri538/insea-ml-energy-efficiency)** | Comparaison de cinq modèles de régression sur 768 observations UCI ; pipelines de prétraitement et validation croisée | [Notebook exécuté](https://github.com/elassri538/insea-ml-energy-efficiency/blob/main/Projet_03_Efficacite_Energetique.ipynb) |
+| **[Mini Shell en C](https://github.com/elassri538/mini_shell)** | Commandes internes, entrées standard, exécution de commandes via le shell système, compilation et tests de régression | [Compiler et essayer](https://github.com/elassri538/mini_shell#compiler-et-lancer) |
+
+## Compétences mobilisées
+
+| Domaine | Pratique dans les projets |
+| --- | --- |
+| Backend | Java, Spring Boot, API REST, Maven |
+| Livraison | Git, GitHub Actions, Docker, Docker Compose |
+| Sécurité de la chaîne | Trivy, secrets hors Git, contrôles d’accès |
+| Infrastructure | Linux, Bash, Terraform, configuration AWS |
+| Données | SQL, PostgreSQL, MySQL, Python, scikit-learn |
+
+**En cours d’apprentissage :** Kubernetes et approfondissement de l’observabilité.
+
+Les projets en équipe précisent le périmètre de contribution. Les README donnent les étapes de lancement, les vérifications disponibles et les limites techniques.
+
