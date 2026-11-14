@@ -23,4 +23,4 @@ Concevoir un pipeline GitHub Actions commun à plusieurs applications Java/Maven
 
 Une exécution réussie de la CI de référence a été vérifiée. Les tests locaux et la configuration du pipeline ne prouvent pas, à eux seuls, qu’un déploiement cloud est actuellement disponible. Le code source et les détails d’infrastructure demeurent privés.
 
-[Retour au profil](../README.md)
+[Voir le dépôt public de présentation du PFA](https://github.com/elassri538/pfa-ci-cd-cloud-devops) · [Retour au profil](../README.md)
