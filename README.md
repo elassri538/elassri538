@@ -4,7 +4,7 @@
 
 En dernière année de Data & Software Engineering, je me spécialise en Cloud & DevOps : automatisation des tests et des déploiements, conteneurisation, infrastructure déclarative et observabilité. Je recherche un **stage PFE de six mois en Cloud/DevOps**, dans la région **Rabat–Casablanca et environs** ; je suis aussi ouvert à d’autres villes et au télétravail.
 
-## Projet principal — [PFA chez OCP](projects/pfa-pipeline.md)
+## Projet principal — [PFA chez OCP](https://github.com/elassri538/pfa-ci-cd-cloud-devops)
 
 **Conception d’un pipeline CI/CD sécurisé et réutilisable pour les applications Java/Maven.**
 
@@ -16,7 +16,7 @@ En dernière année de Data & Software Engineering, je me spécialise en Cloud &
 
 **Technologies DevOps :** GitHub Actions, Docker, Nginx, Trivy, Terraform, AWS.
 
-[Voir la fiche du projet, ma contribution et l’état vérifié](projects/pfa-pipeline.md). Le dépôt source est privé.
+[Voir le dépôt public de présentation du PFA](https://github.com/elassri538/pfa-ci-cd-cloud-devops) et [la fiche détaillée](projects/pfa-pipeline.md). Le code source et les détails d’infrastructure restent privés.
 
 ## [Skill Exchange](projects/skill-exchange-devops.md) — contribution DevOps
 
